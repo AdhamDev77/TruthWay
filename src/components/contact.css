@@ -1,0 +1,106 @@
+
+.contact{
+    width: 100%;
+    height: 110vh;
+    background-color: #282A3A;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.contact h2{
+    color: #fff;
+    font-size: 46px;
+}
+
+.contact-image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-image img{
+    width: 220px;
+    height: 220px;
+}
+
+.contact-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-section .message{
+    display: flex;
+    direction: rtl;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+}
+
+.contact-section .message-inputs{
+    width: 80%;
+}
+
+.contact-section input, .contact-section button, .contact-section textarea{
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.contact-section input, .contact-section textarea{
+    padding: 10px;
+    margin: 10px;
+    color: #fff;
+    font-size: 20px;
+    background: none;
+    border: 1px solid #fff;
+    width: 90%;
+}
+
+.contact-section .message-button{
+    width:20%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.contact-section .message-button button{
+    width:100%;
+    padding: 10px;
+    background-color: #C69749;
+    font-size: 24px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.contact-section .message-inputs{
+    display: flex;
+    flex-direction: column;
+}
+
+/* Small */
+@media (max-width: 768px) {
+    .contact{
+        height: 125vh;
+    }
+    .message{
+        flex-direction: column;
+    }
+
+    .contact-image img{
+        width: 100px;
+        height: 100px;
+    }
+  }
+  /* Medium */
+  @media (min-width: 992px) {
+  
+  }
+  /* Large */
+  @media (min-width: 1200px) {
+    .container {
+      width: 1170px;
+    }
+  }

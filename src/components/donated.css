@@ -1,0 +1,41 @@
+.donated{
+    position: relative;
+    width: 100%;
+    height: 75px;
+    background-color: #282A3A;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 15px 1px #222;
+}
+.donated img{
+    position: absolute;
+    top: -40px;
+    width: 60px;
+}
+.donated span{
+    color: #fff;
+    font-size: 26px;
+    padding: 0;
+    margin: 0;
+}
+
+/* Small */
+@media (max-height: 500px) {
+    .donated img{
+        position: absolute;
+        top: -30px;
+        width: 45px;
+    }
+  }
+  /* Medium */
+  @media (min-width: 992px) {
+  
+  }
+  /* Large */
+  @media (min-width: 1200px) {
+    .container {
+      width: 1170px;
+    }
+  }

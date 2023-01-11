@@ -1,0 +1,37 @@
+.aboutus{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+    background-color: #a78840;
+}
+.title{
+    padding: 25px 0 25px 0;
+    color: #fff;
+    font-size: 56px;
+}
+.aboutus-body{
+    padding-bottom: 25px;
+    width: 90%;
+}
+.aboutus p{
+    margin: 15px 0 15px 0;
+    font-size: 24px;
+}
+
+/* Small */
+@media (max-width: 768px) {
+    
+  }
+  /* Medium */
+  @media (min-width: 992px) {
+  
+  }
+  /* Large */
+  @media (min-width: 1200px) {
+    .container {
+      width: 1170px;
+    }
+  }

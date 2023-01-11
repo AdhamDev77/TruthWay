@@ -1,0 +1,73 @@
+#reverts{
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #C69749;
+}
+
+.reverts-image{
+    width: 60%;
+    display: flex;
+    justify-content: center;
+  }
+  .reverts-image-container{
+    width: 90%;
+  }
+  .reverts-image .each-slide-reverts , .reverts-image .each-slide-reverts a{
+    width:100%;
+    display: flex;
+    justify-content: center;
+    height: 50vh;
+  }
+  .reverts-image .each-slide-img-reverts{
+    position: relative;
+    width: 90%;
+    height: 100%;
+    height: 50vh;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .each-slide-img-reverts span{
+    position: absolute;
+    width: max-content;
+    margin: auto;
+    left: 50%;
+    bottom: 10px;
+    transform: translateX(-50%);
+    font-size: 46px;
+    text-shadow:
+       3px 3px 0 #000,
+     -1px -1px 0 #000,  
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+       1px 1px 0 #000;
+}
+
+/* Small */
+@media (max-width: 768px) {
+  .reverts-image{
+    width: 100%;
+  }
+  .each-slide-img-reverts span{
+    font-size: 32px;
+    text-shadow:
+       3px 3px 0 #000,
+     -1px -1px 0 #000,  
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+       1px 1px 0 #000;
+}
+}
+/* Medium */
+@media (min-width: 992px) {
+
+}
+/* Large */
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
+}
