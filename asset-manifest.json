@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "//adhamdev77.github.io/TruthWay/static/css/main.06177d8c.css",
+    "main.js": "//adhamdev77.github.io/TruthWay/static/js/main.9f26f430.js",
+    "static/js/787.87b2dc3a.chunk.js": "//adhamdev77.github.io/TruthWay/static/js/787.87b2dc3a.chunk.js",
+    "static/media/1.jpg": "//adhamdev77.github.io/TruthWay/static/media/1.d6d660fddb2b616f82ab.jpg",
+    "static/media/2.jpg": "//adhamdev77.github.io/TruthWay/static/media/2.16b718cad50ba6f2720c.jpg",
+    "static/media/3.jpg": "//adhamdev77.github.io/TruthWay/static/media/3.29a649d22fa9954de0c8.jpg",
+    "static/media/6.jpg": "//adhamdev77.github.io/TruthWay/static/media/6.aab784ea9db1b5c638c7.jpg",
+    "static/media/andrewtate.jpg": "//adhamdev77.github.io/TruthWay/static/media/andrewtate.cddf5d2ef293d7ec875a.jpg",
+    "static/media/joramvan.jpg": "//adhamdev77.github.io/TruthWay/static/media/joramvan.10a42fab51ae644ccade.jpg",
+    "static/media/miketyson.jpg": "//adhamdev77.github.io/TruthWay/static/media/miketyson.48426b50ebd79c4e71e4.jpg",
+    "static/media/muhammedali.jpg": "//adhamdev77.github.io/TruthWay/static/media/muhammedali.6ee85fb2896e6cae57d6.jpg",
+    "static/media/rubenabubakr.jpg": "//adhamdev77.github.io/TruthWay/static/media/rubenabubakr.6befa3a0515226820b82.jpg",
+    "static/media/jefferylang.jpg": "//adhamdev77.github.io/TruthWay/static/media/jefferylang.478e6fd65eac8f18b257.jpg",
+    "static/media/logo.png": "//adhamdev77.github.io/TruthWay/static/media/logo.eede49cc55d5ac89eb90.png",
+    "static/media/background.svg": "//adhamdev77.github.io/TruthWay/static/media/background.cecbe9cb47345bae59bd6b19a976627f.svg",
+    "index.html": "//adhamdev77.github.io/TruthWay/index.html",
+    "main.06177d8c.css.map": "//adhamdev77.github.io/TruthWay/static/css/main.06177d8c.css.map",
+    "main.9f26f430.js.map": "//adhamdev77.github.io/TruthWay/static/js/main.9f26f430.js.map",
+    "787.87b2dc3a.chunk.js.map": "//adhamdev77.github.io/TruthWay/static/js/787.87b2dc3a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06177d8c.css",
+    "static/js/main.9f26f430.js"
+  ]
+}
