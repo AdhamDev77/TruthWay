@@ -12,13 +12,13 @@ function Navbar() {
     <>
       <nav className='navbarm'>
         <ul>
-            <li><a href="/"> الصفحة الرأيسية </a></li>
-            <li><a href="/#reverts-scroll"> كيف أسلموا </a></li>
-            <li><a href="/freequraan"> مصحف مجاني </a></li>
-            <li><a href="/"><img alt="Find The truth" src={logo}/></a></li>
-            <li><a href="/donate"> تبرع </a></li>
-            <li><a href="/contact"> تواصل معنا </a></li>
-            <li><a href="/login"> تسجيل دخول </a></li>
+            <li><a href="/TruthWay"> الصفحة الرأيسية </a></li>
+            <li><a href="/TruthWay/#reverts-scroll"> كيف أسلموا </a></li>
+            <li><a href="/TruthWay/freequraan"> مصحف مجاني </a></li>
+            <li><a href="/TruthWay/"><img alt="Find The truth" src={logo}/></a></li>
+            <li><a href="/TruthWay/donate"> تبرع </a></li>
+            <li><a href="/TruthWay/contact"> تواصل معنا </a></li>
+            <li><a href="/TruthWay/login"> تسجيل دخول </a></li>
         </ul>
         
       </nav>
