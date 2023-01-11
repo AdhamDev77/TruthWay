@@ -16,12 +16,12 @@ function App() {
       <Router>
       
         <Routes>
-        <Route exact path="/" element={<Main />} />
-        <Route exact path="/signup" element={<Signup />} />
-        <Route exact path="/login" element={<Login />} />
-        <Route exact path="/donate" element={<Donate />} />
-        <Route exact path="/contact" element={<Contact />} />
-        <Route exact path="/freequraan" element={<FreeQuraan />} />
+        <Route path="/" element={<Main />} />
+        <Route path="/signup" element={<Signup />} />
+        <Route path="/login" element={<Login />} />
+        <Route path="/donate" element={<Donate />} />
+        <Route path="/contact" element={<Contact />} />
+        <Route path="/freequraan" element={<FreeQuraan />} />
         </Routes>
       </Router>
     </div>
