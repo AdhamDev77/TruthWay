@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "//adhamdev77.github.io/TruthWay/static/css/main.06177d8c.css",
-    "main.js": "//adhamdev77.github.io/TruthWay/static/js/main.40aa530c.js",
+    "main.js": "//adhamdev77.github.io/TruthWay/static/js/main.4a4f8210.js",
     "static/js/787.87b2dc3a.chunk.js": "//adhamdev77.github.io/TruthWay/static/js/787.87b2dc3a.chunk.js",
     "static/media/1.jpg": "//adhamdev77.github.io/TruthWay/static/media/1.d6d660fddb2b616f82ab.jpg",
     "static/media/2.jpg": "//adhamdev77.github.io/TruthWay/static/media/2.16b718cad50ba6f2720c.jpg",
@@ -17,11 +17,11 @@
     "static/media/background.svg": "//adhamdev77.github.io/TruthWay/static/media/background.cecbe9cb47345bae59bd6b19a976627f.svg",
     "index.html": "//adhamdev77.github.io/TruthWay/index.html",
     "main.06177d8c.css.map": "//adhamdev77.github.io/TruthWay/static/css/main.06177d8c.css.map",
-    "main.40aa530c.js.map": "//adhamdev77.github.io/TruthWay/static/js/main.40aa530c.js.map",
+    "main.4a4f8210.js.map": "//adhamdev77.github.io/TruthWay/static/js/main.4a4f8210.js.map",
     "787.87b2dc3a.chunk.js.map": "//adhamdev77.github.io/TruthWay/static/js/787.87b2dc3a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.06177d8c.css",
-    "static/js/main.40aa530c.js"
+    "static/js/main.4a4f8210.js"
   ]
 }
